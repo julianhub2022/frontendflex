@@ -1,0 +1,23 @@
+#fondo-aqui{background-color:rgb(0, 225, 225, .3)}
+
+h1 { color: rgb(24, 134, 46, .8);text-align:center;font-size:45px;text-transform:uppercase;text-decoration:underline}
+
+h2 {background-color:rgb(157,174,163);font-size:40px;text-align:center;text-transform:lowercase}
+
+h3 {font-size:35px;font-style:italic;text-align:center}
+
+h4 {font-family:verdana;text-decoration:underline}
+
+#selector-ID 
+{background-color:rgba(0, 255, 255, .2);font-weight:bold;font-size:25px;color:blue;line-height:43px}
+
+#segundo-parrafo
+{font-weight:normal;text-align:center;font-weight:bold;color:green}
+
+#tercer-parrafo
+{font-weight:bold;text-align:center;font-size:30px;text-transform:uppercase;text-decoration:underline;color:#e3fc03}
+
+#cuarto-parrafo{text-decoration:underline}
+
+#quinto-parrafo
+{font-style:italic;font-family:Verdana;font-size:25px;font-weight:bold;text-transform:owercase;text-align:center;text-decoration:none;text-transform:capitalize}
