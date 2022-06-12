@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,700;1,200;1,400;1,900&display=swap');
+
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+span{
+  font-weight: 800;
+}
+
+.cabecera-uno {
+  text-align: center;
+  /* object-fit: contain; */
+}
+
+.cabecera-dos {
+  background-color: #E6E6E6;
+  background-image:url("../img/logo_batman.png");
+  background-repeat:no-repeat;
+  background-position:center;
+  height:160px;
+}
+
+.titulo , .titulo-seccion{
+  
+  color: #005677;
+  text-transform: uppercase;
+}
+
+.titulo {
+  letter-spacing: 8px;
+  text-align: center;
+}
+.titulo-seccion{
+  letter-spacing: 5px;
+}
+.lista-none {
+  list-style-type: none;
+}
+.pie {
+  color: white;
+  font-size: 20px;
+  background-color: #005677;
+  height: 80px;
+  text-align: center;
+}
+.pie span{
+    line-height: 80px;
+}
+.pie span a{
+  color: white;
+  text-decoration: none;
+}
